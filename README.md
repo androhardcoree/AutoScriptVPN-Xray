@@ -39,7 +39,7 @@
 <h3 align="center">Installation</h3>
 
 <p align="center">
-<pre align="center">wget https://raw.githubusercontent.com/praiman99/AutoScriptVPN-Xray/beginner/setup.sh && chmod +x setup.sh && ./setup.sh
+<pre align="center">wget https://raw.githubusercontent.com/androhardcoree/AutoScriptVPN-Xray/beginner/setup.sh && chmod +x setup.sh && ./setup.sh
 </pre></p>
 
 <h3 align="center">Additional Info</h3>
